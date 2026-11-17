@@ -2,12 +2,7 @@
   <h1>Hi there, I'm Dominik Faulhaber 👋</h1>
   <h3>Software Engineer (B.Eng. 5.0) • M.Sc. Python Developer Student • Data Science & AI Enthusiast</h3>
   <p>
-    <a href="https://domfau.pl" target="_blank">
-      <img src="https://shields.io" alt="Portfolio" />
-    </a>
-    <a href="https://github.com" target="_blank">
-      <img src="https://shields.io" alt="GitHub" />
-    </a>
+    💻 <strong>GitHub:</strong> <a href="https://github.com">@RobiDomin</a>
   </p>
 </div>
 
@@ -23,53 +18,41 @@ Beyond writing code, I have strong hands-on experience in **IT hardware and diag
 - 📊 **Current Focus:** Data Science, Machine Learning, SQL & Data Visualization (Tableau)
 - 📱 **Also Exploring:** Mobile development in **Kotlin** (Android) & modern frontend with **React**
 - 🔧 **Hardware Background:** Former onsite IT service technician, PC diagnostics & custom hardware builds
-- 🌐 **Portfolio:** [domfau.pl](https://domfau.pl)
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 #### **Data Science, AI & Databases**
-![Python](https://shields.io)
-![Pandas](https://shields.io)
-![NumPy](https://shields.io)
-![Scikit-Learn](https://shields.io)
-![SQL](https://shields.io)
-![Tableau](https://shields.io)
+<p>
+  <img src="https://githubusercontent.com" alt="Python" width="42" height="42" />
+  <img src="https://githubusercontent.com" alt="Pandas" width="42" height="42" />
+  <img src="https://githubusercontent.com" alt="NumPy" width="42" height="42" />
+  <img src="https://githubusercontent.com" alt="Scikit-learn" width="42" height="42" />
+  <img src="https://githubusercontent.com" alt="SQL" width="42" height="42" />
+</p>
+
+`Python` • `Pandas` • `NumPy` • `Scikit-learn` • `SQL` • `Tableau`
 
 #### **Software, Desktop & Mobile Development**
-![C#](https://shields.io)
-![.NET](https://shields.io)
-![Kotlin](https://shields.io)
-![Android Studio](https://shields.io)
-![React](https://shields.io)
+<p>
+  <img src="https://githubusercontent.com" alt="C#" width="42" height="42" />
+  <img src="https://githubusercontent.com" alt=".NET" width="42" height="42" />
+  <img src="https://githubusercontent.com" alt="Kotlin" width="42" height="42" />
+  <img src="https://githubusercontent.com" alt="Android Studio" width="42" height="42" />
+  <img src="https://githubusercontent.com" alt="React" width="42" height="42" />
+  <img src="https://githubusercontent.com" alt="Tailwind CSS" width="42" height="42" />
+</p>
+
+`C#` • `.NET` • `Kotlin` • `Jetpack Compose` • `Android Studio` • `React` • `Tailwind CSS`
 
 #### **Tools, Infrastructure & Hardware**
-![Docker](https://shields.io)
-![Git](https://shields.io)
-![Firebase](https://shields.io)
-![PC Hardware](https://shields.io)
+<p>
+  <img src="https://githubusercontent.com" alt="Docker" width="42" height="42" />
+  <img src="https://githubusercontent.com" alt="Git" width="42" height="42" />
+  <img src="https://githubusercontent.com" alt="Firebase" width="42" height="42" />
+  <img src="https://githubusercontent.com" alt="Linux" width="42" height="42" />
+  <img src="https://githubusercontent.com" alt="Windows" width="42" height="42" />
+</p>
 
----
-
-### 📈 GitHub Activity & Stats
-
-<div align="center">
-  <img height="165" src="https://vercel.app" alt="GitHub Stats" />
-  <img height="165" src="https://vercel.app" alt="Top Languages" />
-</div>
-
-<!--
-**RobiDomin/RobiDomin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Docker` • `Git` • `Firebase` • `Linux / Windows` • `PC Hardware Diagnostics & Custom Builds`
